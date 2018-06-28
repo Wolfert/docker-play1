@@ -1,6 +1,6 @@
-# The Play 1 web framework in Docker
+# Dockerized Play 1
 
-Play 1 Docker image for development, based on the OpenJDK Docker images. 
+A Dockerized [Play 1 web framework](https://github.com/playframework/play1) for development, based on the OpenJDK Docker images. 
 
 The images run `play` as the user `play` with a home directory at `/home/play` so
 to run an application in `app_directory` on your local machine:
